@@ -4,3 +4,5 @@
 N° | Manual
 ---|---
 1  | [Módulo de Comisiones](./modulo-comisiones.md)
+
+[Github Pages](https://abrahamalanya.github.io/manual-usuario-naturemarket/)
